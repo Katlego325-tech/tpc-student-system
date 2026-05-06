@@ -1,0 +1,21 @@
+START
+    INPUT Student Name 
+    INPUT score
+
+  IF score >= 50%
+   OUTPUT "Result: Pass" 
+  ELSE 
+   OUTPUT "Result: Fail"
+   
+  IF "Student Name:Elon Musk" + score = >=50 
+   OUTPUT "Student Name:Elon Musk" + score
+ 
+ END IF
+END
+
+
+
+
+
+
+
